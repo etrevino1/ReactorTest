@@ -1,0 +1,12 @@
+products:
+   src/test/scala/simulations/BootLoadSimulation.scala -> build/classes/scala/test/simulations/BootLoadSimulation.class
+binary dependencies:
+   src/test/scala/simulations/BootLoadSimulation.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar
+   src/test/scala/simulations/BootLoadSimulation.scala -> /Users/carlosvelez/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.3.0/fc017fa7bba948954a25219cdd1262b166a6e921/gatling-commons-2.3.0.jar
+   src/test/scala/simulations/BootLoadSimulation.scala -> /Users/carlosvelez/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.3.0/dd80c883fc7c4f4e6d961ac0eb3668ce045d06ef/gatling-core-2.3.0.jar
+   src/test/scala/simulations/BootLoadSimulation.scala -> /Users/carlosvelez/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.3.0/8b7bd3cc1928b8076e65d077e24d634eebde2c75/gatling-http-2.3.0.jar
+   src/test/scala/simulations/BootLoadSimulation.scala -> /Users/carlosvelez/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.4/7663f74ef944453c86cc7e6597ed33e9281f6412/scala-library-2.12.4.jar
+source dependencies:
+external dependencies:
+class names:
+   src/test/scala/simulations/BootLoadSimulation.scala -> simulations.BootLoadSimulation

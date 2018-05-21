@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.BootLoadSimulation",
+  "simulationId": "bootloadsimulation",
+  "start": 1526666832132,
+  "description": "",
+  "scenarios": ["Boots prueba de carga"],
+  "assertions": [
+
+  ]
+}
